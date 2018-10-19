@@ -8,4 +8,5 @@ h1,h2,h3{
     font-family: Arial, Helvetica, sans-serif;
     background: rgb(100, 28, 0);
     color: rgb(255, 216, 23);
+    size: 100px;
 }
