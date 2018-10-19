@@ -8,12 +8,12 @@ h1,{
     font-family: 'Times New Roman', Times, serif;
     background: rgb(100, 28, 0);
     color: rgb(255, 216, 23);
-    font-size: 3em;
+    font-size: 2em;
 }
 
 h2,h3{
     font-family: Arial, Helvetica, sans-serif;
     background: rgb(100, 28, 0);
     color: rgb(255, 216, 23);
-    font-size: 6em;
+    font-size: 1em;
 }
